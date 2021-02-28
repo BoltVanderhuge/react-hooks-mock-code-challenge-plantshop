@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 895
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 8
     },
     {
       "id": 3,
@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "John",
+      "image": "John.jpec",
+      "price": 15,
+      "id": 8
+    },
+    {
+      "name": "Audrey",
+      "image": "https://www.ajff.org/sites/default/files/styles/full_width/public/film_LittleShopOfHorrors_01.jpg?itok=RtzYchLp",
+      "price": 10,
+      "id": 9
     }
   ]
 }
